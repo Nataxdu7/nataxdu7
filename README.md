@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**Nataxdu7/nataxdu7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Salut, Moi c'est Nataxdu7 🫡
+## 🐍 À propos de moi
+Rien n'a dire !
+## ⭐ Projets
+### [Dokay Studio](https://discord.gg/cgJUGU9q7h)
+Dokay Studio est un serveur de vente de Bots Discord. Tous les Bots sont développés par nos développeurs les plus compétents.
+## 🧩 Compétences
+Développement : Node.js (discord.js) & (discord.js-selfbot-v13)
+## 📌 Me contacter
+nataxdu7(Discord)
